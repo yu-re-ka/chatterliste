@@ -5509,5 +5509,19 @@
                 "name": "INWX"
             }
         ]
+    },
+    {
+        "Nick": "yuka",
+        "Name": "Yureka Lilian",
+        "NIC Handle": [],
+        "ASN": [
+            9136
+        ],
+        "Organisation": [
+            {
+                "url": "https://wobcom.net",
+                "name": "WOBCOM GmbH"
+            }
+        ]
     }
 ]
